@@ -1,0 +1,25 @@
+{
+  "name": "angular-codeacademy",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cmanessis/angular-codeacademy",
+  "authors": [
+    "cmanessis <cmpetrowii@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4",
+    "angular": "~1.4.0",
+    "angular-resource": "~1.4.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.0"
+  }
+}
